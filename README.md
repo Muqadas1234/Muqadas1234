@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muqadas</h1>
-<h3 align="center">A passionate Artificial intelligence and machine learning</h3>
+<h3 align="center">SIBA '26 | Computer Science Student | AI & ML Enthusiast | Python, C++, Java, JavaScript | Web Development</h3>
 
-- 🔭 I’m currently working on **Working on beginner-level AI & ML projects, chatbots, and web applications**
+<p>A Computer Science student with a passion for building intelligent applications. Skilled in a variety of languages, tools, and platforms including Python, JavaScript, C++, and Java. Experienced in developing AI-powered projects like chatbots, RAG systems, and web apps with strong logic-building and problem-solving abilities.</p>
 
-- 📫 How to reach me **muqadasakram.13@gmail.com**
+
+## About Me
+- 🎓 I am a Computer Science student at SIBA University, Dadu Campus (6th Semester)
+- 🌍 I'm currently based in Dadu, Pakistan
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Working on beginner-level AI & ML projects, chatbots, and web applications
+- 📬 How to reach me: muqadasakram.13@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
