@@ -3,7 +3,7 @@
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
 
   <h3>SIBA '26 • Computer Science Student</h3>
-  <p style="color: #FF6B6B; font-weight: bold; font-size: 18px;">AI Developer · Problem Solver · Building Intelligent Solutions</p>
+  <p style="color: #FF6B6B; font-weight: 900; font-size: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">AI Developer · Problem Solver · Building Intelligent Solutions</p>
 
   <a href="https://www.linkedin.com/in/muqadas-akram/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -134,7 +134,7 @@
   <img height="150" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" />
 
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8" />
 
 </div>
 
