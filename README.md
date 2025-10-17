@@ -134,7 +134,7 @@
   <img height="150" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" />
 
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=false&no-bg=false&row=1&column=8" />
 
 </div>
 
