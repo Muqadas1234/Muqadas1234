@@ -24,7 +24,7 @@
 
 ### About Me
 
-- 🎓 Computer Science student at SIBA University, Dadu Campus (6th Semester)
+- 🎓 Computer Science student at SIBA University, Dadu Campus (7th Semester)
 - 🌍 Based in Dadu, Pakistan
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
 - 💻 Building beginner-friendly AI/ML projects, chatbots, RAG systems, and web apps
