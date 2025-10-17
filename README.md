@@ -2,8 +2,12 @@
 
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
 
-  <h3>SIBA '26 • Computer Science Student</h3>
-  <p><b>AI & ML Enthusiast</b> · Python · C++ · Java · JavaScript · Web Development</p>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=SIBA+'26+%E2%80%A2+Computer+Science+Student" alt="Typing SVG" />
+  </h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=AI+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Building+Intelligent+Solutions" alt="Typing SVG" />
+  </p>
 
   <a href="https://www.linkedin.com/in/muqadas-akram/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +21,6 @@
   <a href="https://www.instagram.com/its_muqadas.13?igsh=MTNlZmF1MThnYnB0dQ==">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <br/>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Muqadas1234&label=Profile%20views&color=0ea5e9&style=flat" />
 
 </div>
 
@@ -71,37 +72,37 @@
     </tr>
     <tr>
       <td style="padding:15px;">🩺 Multilingual AI Health Assistant</td>
-      <td style="padding:15px;">AI-powered health assistant with medical diagnosis, treatment suggestions, and multi-language support. Features WhatsApp-style chat, PDF reports, and text-to-speech.</td>
+      <td style="padding:15px;">AI health assistant with medical diagnosis, multi-language support, WhatsApp-style chat, and PDF reports.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multilingual-ai-health-assistant">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">📚 AI Study Supervisor</td>
-      <td style="padding:15px;">Upload PDFs and ask questions using semantic search and LLaMA3. Built with Gradio for simple UI and intelligent document analysis.</td>
+      <td style="padding:15px;">Upload PDFs and ask questions using LLaMA3 semantic search with Gradio UI.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Study-Supervisor">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">🧠 Smart RAG Document QA Assistant</td>
-      <td style="padding:15px;">AI-powered document question-answering web app using Retrieval-Augmented Generation (RAG) technology for intelligent content analysis.</td>
+      <td style="padding:15px;">AI document Q&A web app using Retrieval-Augmented Generation (RAG) technology.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">🌍 AI Travel Planner</td>
-      <td style="padding:15px;">Intelligent web app for personalized trip planning with AI-generated itineraries, budget breakdowns, and destination suggestions using LLaMA and real-time APIs.</td>
+      <td style="padding:15px;">Intelligent trip planning with AI-generated itineraries, budgets, and destination suggestions using LLaMA.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Travel-Planner">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">🌐 Language Translator Web App</td>
-      <td style="padding:15px;">Web-based translator using Flask backend and Microsoft Azure Translator API for multi-language text translation with modern UI.</td>
+      <td style="padding:15px;">Multi-language translator using Flask backend and Microsoft Azure Translator API.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multi-language-translator-tool">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">💬 Intelligent FAQ Chatbot (NLTK)</td>
-      <td style="padding:15px;">University admission FAQ chatbot using NLP, TF-IDF vectorization, and cosine similarity for intelligent response matching.</td>
+      <td style="padding:15px;">University admission FAQ chatbot using NLP, TF-IDF, and cosine similarity.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk">View</a></td>
     </tr>
     <tr>
       <td style="padding:15px;">🎯 YOLOv5 + SORT Object Detection & Tracking</td>
-      <td style="padding:15px;">Real-time object detection and tracking using YOLOv5 model and SORT algorithm with persistent ID assignment for video analysis.</td>
+      <td style="padding:15px;">Real-time object detection and tracking using YOLOv5 and SORT algorithm.</td>
       <td style="padding:15px;"><a href="https://github.com/Muqadas1234/object-detection-tracking-using-yolo">View</a></td>
     </tr>
   </table>
@@ -126,6 +127,9 @@
 ### GitHub Stats & Achievements
 
 <div align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Muqadas1234&label=Profile%20views&color=0ea5e9&style=flat" />
+  
+  <br/><br/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=radical&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=radical&hide_border=true" />
