@@ -113,11 +113,6 @@
 - Frontend integration of AI features (React)
 - Databases for ML apps (SQLite, Postgres)
 
-### Fun Facts About Me
-
-- ☕ Coffee lover | 🧩 Logic addict | 🌐 Tech explorer
-- I enjoy late-night bug hunts and building neat UI/UX details
-
 ---
 
 ### GitHub Stats & Achievements
