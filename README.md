@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=SIBA+'26+%E2%80%A2+Computer+Science+Student" alt="Typing SVG" />
   </h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=AI+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=bold&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Building+Intelligent+Solutions" alt="Typing SVG" />
   </p>
 
   <a href="https://www.linkedin.com/in/muqadas-akram/">
