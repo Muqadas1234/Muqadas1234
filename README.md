@@ -62,15 +62,15 @@
 
 ### Featured Projects
 
-| Project | Repository |
-|---|---|
-| 🩺 Multilingual AI Health Assistant | [View](https://github.com/Muqadas1234/multilingual-ai-health-assistant) |
-| 📚 AI Study Supervisor | [View](https://github.com/Muqadas1234/AI-Study-Supervisor) |
-| 🧠 Smart RAG Document QA Assistant | [View](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-) |
-| 🌍 AI Travel Planner | [View](https://github.com/Muqadas1234/AI-Travel-Planner) |
-| 🌐 Language Translator Web App | [View](https://github.com/Muqadas1234/multi-language-translator-tool) |
-| 💬 Intelligent FAQ Chatbot (NLTK) | [View](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk) |
-| 🎯 YOLOv5 + SORT Object Detection & Tracking | [View](https://github.com/Muqadas1234/object-detection-tracking-using-yolo) |
+| Project | Description | Repository |
+|---|---|---|
+| 🩺 Multilingual AI Health Assistant | AI-powered health assistant with medical diagnosis, treatment suggestions, and multi-language support. Features WhatsApp-style chat, PDF reports, and text-to-speech. | [View](https://github.com/Muqadas1234/multilingual-ai-health-assistant) |
+| 📚 AI Study Supervisor | Upload PDFs and ask questions using semantic search and LLaMA3. Built with Gradio for simple UI and intelligent document analysis. | [View](https://github.com/Muqadas1234/AI-Study-Supervisor) |
+| 🧠 Smart RAG Document QA Assistant | AI-powered document question-answering web app using Retrieval-Augmented Generation (RAG) technology for intelligent content analysis. | [View](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-) |
+| 🌍 AI Travel Planner | Intelligent web app for personalized trip planning with AI-generated itineraries, budget breakdowns, and destination suggestions using LLaMA and real-time APIs. | [View](https://github.com/Muqadas1234/AI-Travel-Planner) |
+| 🌐 Language Translator Web App | Web-based translator using Flask backend and Microsoft Azure Translator API for multi-language text translation with modern UI. | [View](https://github.com/Muqadas1234/multi-language-translator-tool) |
+| 💬 Intelligent FAQ Chatbot (NLTK) | University admission FAQ chatbot using NLP, TF-IDF vectorization, and cosine similarity for intelligent response matching. | [View](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk) |
+| 🎯 YOLOv5 + SORT Object Detection & Tracking | Real-time object detection and tracking using YOLOv5 model and SORT algorithm with persistent ID assignment for video analysis. | [View](https://github.com/Muqadas1234/object-detection-tracking-using-yolo) |
 
 ---
 
