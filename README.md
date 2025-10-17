@@ -62,15 +62,50 @@
 
 ### Featured Projects
 
-| Project | Description | Repository |
-|---|---|---|
-| 🩺 Multilingual AI Health Assistant | AI-powered health assistant with medical diagnosis, treatment suggestions, and multi-language support. Features WhatsApp-style chat, PDF reports, and text-to-speech. | [View](https://github.com/Muqadas1234/multilingual-ai-health-assistant) |
-| 📚 AI Study Supervisor | Upload PDFs and ask questions using semantic search and LLaMA3. Built with Gradio for simple UI and intelligent document analysis. | [View](https://github.com/Muqadas1234/AI-Study-Supervisor) |
-| 🧠 Smart RAG Document QA Assistant | AI-powered document question-answering web app using Retrieval-Augmented Generation (RAG) technology for intelligent content analysis. | [View](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-) |
-| 🌍 AI Travel Planner | Intelligent web app for personalized trip planning with AI-generated itineraries, budget breakdowns, and destination suggestions using LLaMA and real-time APIs. | [View](https://github.com/Muqadas1234/AI-Travel-Planner) |
-| 🌐 Language Translator Web App | Web-based translator using Flask backend and Microsoft Azure Translator API for multi-language text translation with modern UI. | [View](https://github.com/Muqadas1234/multi-language-translator-tool) |
-| 💬 Intelligent FAQ Chatbot (NLTK) | University admission FAQ chatbot using NLP, TF-IDF vectorization, and cosine similarity for intelligent response matching. | [View](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk) |
-| 🎯 YOLOv5 + SORT Object Detection & Tracking | Real-time object detection and tracking using YOLOv5 model and SORT algorithm with persistent ID assignment for video analysis. | [View](https://github.com/Muqadas1234/object-detection-tracking-using-yolo) |
+<div align="center">
+  <table width="100%" style="border:1px solid #e5e7eb; border-radius:8px; background:#ffffff; padding:20px;">
+    <tr>
+      <th align="left" style="padding:15px; background:#f8fafc;">Project</th>
+      <th align="left" style="padding:15px; background:#f8fafc;">Description</th>
+      <th align="left" style="padding:15px; background:#f8fafc;">Repository</th>
+    </tr>
+    <tr>
+      <td style="padding:15px;">🩺 Multilingual AI Health Assistant</td>
+      <td style="padding:15px;">AI-powered health assistant with medical diagnosis, treatment suggestions, and multi-language support. Features WhatsApp-style chat, PDF reports, and text-to-speech.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multilingual-ai-health-assistant">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">📚 AI Study Supervisor</td>
+      <td style="padding:15px;">Upload PDFs and ask questions using semantic search and LLaMA3. Built with Gradio for simple UI and intelligent document analysis.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Study-Supervisor">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">🧠 Smart RAG Document QA Assistant</td>
+      <td style="padding:15px;">AI-powered document question-answering web app using Retrieval-Augmented Generation (RAG) technology for intelligent content analysis.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">🌍 AI Travel Planner</td>
+      <td style="padding:15px;">Intelligent web app for personalized trip planning with AI-generated itineraries, budget breakdowns, and destination suggestions using LLaMA and real-time APIs.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Travel-Planner">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">🌐 Language Translator Web App</td>
+      <td style="padding:15px;">Web-based translator using Flask backend and Microsoft Azure Translator API for multi-language text translation with modern UI.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multi-language-translator-tool">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">💬 Intelligent FAQ Chatbot (NLTK)</td>
+      <td style="padding:15px;">University admission FAQ chatbot using NLP, TF-IDF vectorization, and cosine similarity for intelligent response matching.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk">View</a></td>
+    </tr>
+    <tr>
+      <td style="padding:15px;">🎯 YOLOv5 + SORT Object Detection & Tracking</td>
+      <td style="padding:15px;">Real-time object detection and tracking using YOLOv5 model and SORT algorithm with persistent ID assignment for video analysis.</td>
+      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/object-detection-tracking-using-yolo">View</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -85,14 +120,6 @@
 
 - ☕ Coffee lover | 🧩 Logic addict | 🌐 Tech explorer
 - I enjoy late-night bug hunts and building neat UI/UX details
-
----
-
-### Daily Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="daily quote" />
-</div>
 
 ---
 
