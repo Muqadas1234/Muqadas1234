@@ -156,6 +156,53 @@
 
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🎯 YOLOv5 Object Detection
+**Real-time Object Detection & Tracking**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6B6B?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
+
+*Real-time object detection and tracking using YOLOv5 and SORT algorithm.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🚀 Coming Soon...
+**More Amazing Projects**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+*Exciting new AI and ML projects are in development!*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🌟 More Projects
+**Explore My Work**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4ECDC4?style=flat-square&logo=html5&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+
+*Check out more of my projects and contributions on GitHub!*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234)
+
+</td>
+</tr>
 </table>
 
 </div>
