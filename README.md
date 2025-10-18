@@ -57,51 +57,107 @@
 
 ---
 
-### Featured Projects
+### ⭐ Featured Projects
 
 <div align="center">
-  <table width="100%" style="border:1px solid #e5e7eb; border-radius:8px; background:#ffffff; padding:20px;">
-    <tr>
-      <th align="left" style="padding:15px; background:#f8fafc;">Project</th>
-      <th align="left" style="padding:15px; background:#f8fafc;">Description</th>
-      <th align="left" style="padding:15px; background:#f8fafc;">Repository</th>
-    </tr>
-    <tr>
-      <td style="padding:15px;">🩺 Multilingual AI Health Assistant</td>
-      <td style="padding:15px;">AI health assistant with medical diagnosis, multi-language support, WhatsApp-style chat, and PDF reports.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multilingual-ai-health-assistant">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">📚 AI Study Supervisor</td>
-      <td style="padding:15px;">Upload PDFs and ask questions using LLaMA3 semantic search with Gradio UI.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Study-Supervisor">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">🧠 Smart RAG Document QA Assistant</td>
-      <td style="padding:15px;">AI document Q&A web app using Retrieval-Augmented Generation (RAG) technology.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">🌍 AI Travel Planner</td>
-      <td style="padding:15px;">Intelligent trip planning with AI-generated itineraries, budgets, and destination suggestions using LLaMA.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/AI-Travel-Planner">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">🌐 Language Translator Web App</td>
-      <td style="padding:15px;">Multi-language translator using Flask backend and Microsoft Azure Translator API.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/multi-language-translator-tool">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">💬 Intelligent FAQ Chatbot (NLTK)</td>
-      <td style="padding:15px;">University admission FAQ chatbot using NLP, TF-IDF, and cosine similarity.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk">View</a></td>
-    </tr>
-    <tr>
-      <td style="padding:15px;">🎯 YOLOv5 + SORT Object Detection & Tracking</td>
-      <td style="padding:15px;">Real-time object detection and tracking using YOLOv5 and SORT algorithm.</td>
-      <td style="padding:15px;"><a href="https://github.com/Muqadas1234/object-detection-tracking-using-yolo">View</a></td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🩺 Multilingual AI Health Assistant
+**AI Health Assistant with Medical Diagnosis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-00A86B?style=flat-square&logo=groq&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4ECDC4?style=flat-square&logo=html5&logoColor=white)
+
+*AI health assistant with medical diagnosis, multi-language support, WhatsApp-style chat, and PDF reports.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/multilingual-ai-health-assistant)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/multilingual-ai-health-assistant)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 📚 AI Study Supervisor
+**PDF Document Q&A Assistant**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat-square&logo=gradio&logoColor=white)
+
+*Upload PDFs and ask questions using LLaMA3 semantic search with Gradio UI.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🧠 Smart RAG Document QA
+**Retrieval-Augmented Generation Assistant**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4ECDC4?style=flat-square&logo=html5&logoColor=white)
+
+*AI document Q&A web app using Retrieval-Augmented Generation (RAG) technology.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🌍 AI Travel Planner
+**Intelligent Trip Planning System**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white)
+![API](https://img.shields.io/badge/API-00D4FF?style=flat-square&logo=api&logoColor=white)
+
+*Intelligent trip planning with AI-generated itineraries, budgets, and destination suggestions using LLaMA.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/AI-Travel-Planner)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/AI-Travel-Planner)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🌐 Language Translator
+**Multi-Language Translation Tool**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+*Multi-language translator using Flask backend and Microsoft Azure Translator API.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/multi-language-translator-tool)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/multi-language-translator-tool)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 💬 Intelligent FAQ Chatbot
+**University Admission Assistant**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FF6B6B?style=flat-square&logo=nltk&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4ECDC4?style=flat-square&logo=natural-language-processing&logoColor=white)
+
+*University admission FAQ chatbot using NLP, TF-IDF, and cosine similarity.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
