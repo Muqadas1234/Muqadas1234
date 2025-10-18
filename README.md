@@ -152,9 +152,21 @@
   </a>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <sub>Inspired by clean profile layouts • Feel free to fork and adapt</sub>
+
+### 💡 **Inspiration**
+
+> *"The future belongs to those who believe in the beauty of their dreams."* – **Eleanor Roosevelt**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontColor=ffffff" />
+
+**Thanks for visiting!** ⭐ *Let's build something amazing together!*
+
+<img src="https://komarev.com/ghpvc/?username=Muqadas1234&style=for-the-badge&color=blue" alt="Profile Views" />
+
 </div>
 
