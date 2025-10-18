@@ -157,6 +157,36 @@
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
 
 </td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🚀 Coming Soon
+**More Amazing Projects**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+*Exciting new AI and ML projects are in development!*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234)
+
+</td>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🌟 More Projects
+**Explore My Work**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4ECDC4?style=flat-square&logo=html5&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+
+*Check out more of my projects and contributions on GitHub!*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234)
+
+</td>
 </tr>
 </table>
 
@@ -166,19 +196,15 @@
 
 ### Currently Learning / Focus
 
-- Advanced prompting and RAG evaluation
-- Model fine-tuning and inference optimization
-- Frontend integration of AI features (React)
-- Databases for ML apps (SQLite, Postgres)
+- **Deep Learning** - Neural networks, CNNs, RNNs, and Transformer architectures
+- **React Development** - Frontend frameworks and modern web development
+- **AI Prompting** - Advanced prompt engineering and optimization techniques
+- **Machine Learning** - Model training, evaluation, and deployment strategies
 
 ---
 
 ### GitHub Stats & Achievements
 
-<div align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Muqadas1234&label=Profile%20views&color=FF6B6B&style=flat" />
-  
-  <br/><br/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" />
