@@ -173,6 +173,11 @@
 
 ### GitHub Stats & Achievements
 
+<div align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Muqadas1234&label=Profile%20views&color=FF6B6B&style=flat" />
+  
+  <br/><br/>
+
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" />
