@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=D14836&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
@@ -178,7 +179,6 @@
   <br/><br/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true" />
-  &nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
