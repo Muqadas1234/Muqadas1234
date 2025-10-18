@@ -140,8 +140,6 @@
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/intelligent-faq-chatbot-nltk)
 
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
 ### 🎯 YOLOv5 Object Detection
@@ -181,11 +179,11 @@
   <br/><br/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
-  <img height="150" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" />
 
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=false&no-bg=false&row=1&column=8" />
