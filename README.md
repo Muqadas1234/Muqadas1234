@@ -80,21 +80,6 @@
 </td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
-### 📚 AI Study Supervisor
-**PDF Document Q&A Assistant**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat-square&logo=gradio&logoColor=white)
-
-*Upload PDFs and ask questions using LLaMA3 semantic search with Gradio UI.*
-
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
-
-</td>
-<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
 ### 🧠 Smart RAG Document QA
 **Retrieval-Augmented Generation Assistant**
 
@@ -170,36 +155,6 @@
 
 [![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
-
-</td>
-<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
-### 🌸 KNN Iris Classifier
-**Machine Learning Mini Project**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-
-*K-Nearest Neighbors (K=6) implementation on Iris Dataset with data exploration, preprocessing, training, and visualization.*
-
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/Exploring-ML-with-KNN-Iris-Classifier)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/Exploring-ML-with-KNN-Iris-Classifier)
-
-</td>
-<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
-### 🌍 World Population Scraper
-**Web Scraping & Data Collection**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6B6B?style=flat-square&logo=web-scraping&logoColor=white)
-![Data](https://img.shields.io/badge/Data-4ECDC4?style=flat-square&logo=database&logoColor=white)
-
-*Web scraping tool for collecting world population data with CSV export functionality.*
-
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/world-population-scraper)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/world-population-scraper)
 
 </td>
 </tr>
