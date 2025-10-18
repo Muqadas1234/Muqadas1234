@@ -93,8 +93,6 @@
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/Muqadas1234--Smart-RAG-Document-QA-Assistant-)
 
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
 ### 🌍 AI Travel Planner
@@ -110,6 +108,8 @@
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/AI-Travel-Planner)
 
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
 ### 🌐 Language Translator
