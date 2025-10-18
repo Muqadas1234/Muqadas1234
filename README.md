@@ -1,8 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ahmad%20Gul&fontSize=80&fontAlignY=40&desc=AI%20Enthusiast%20%7C%20ML%20Engineer%20%7C%20Student&descAlignY=55&descAlign=50&fontColor=ffffff)
+  <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=D14836&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
 
-</div>
+  <h3>SIBA '26 • Computer Science Student</h3>
+  <p style="color: #FF6B6B; font-weight: 900; font-size: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">AI Developer · Problem Solver · Building Intelligent Solutions</p>
 
   <a href="https://www.linkedin.com/in/muqadas-akram/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
