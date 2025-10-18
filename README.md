@@ -174,32 +174,17 @@
 </td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
-### 📚 AI Study Supervisor
-**PDF Document Q&A Assistant**
+### 🎯 Coming Soon
+**More Amazing Projects**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat-square&logo=gradio&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-*Upload PDFs and ask questions using LLaMA3 semantic search with Gradio UI.*
+*Exciting new AI and ML projects are in development!*
 
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/AI-Study-Supervisor)
-
-</td>
-<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
-### 🎯 YOLOv5 Object Detection
-**Real-time Object Detection & Tracking**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6B6B?style=flat-square&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
-
-*Real-time object detection and tracking using YOLOv5 and SORT algorithm.*
-
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234)
 
 </td>
 </tr>
