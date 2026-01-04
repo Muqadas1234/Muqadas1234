@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=D14836&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
@@ -54,6 +55,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+---
 
 ---
 
