@@ -64,6 +64,22 @@
 
 <table>
 <tr>
+  <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🔍 AI Lost & Found System
+**Semantic Matching with NLP**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4ECDC4?style=flat-square&logo=natural-language-processing&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+*AI-powered lost & found system with semantic matching, automatic email notifications, admin dashboard, and Google OAuth authentication.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
+
+</td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
 ### 🩺 Multilingual AI Health Assistant
