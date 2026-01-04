@@ -193,16 +193,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true)
-
-  <br/><br/>
-  
   ![GitHub Streak](https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true)
-
-  <br/><br/>
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=false&no-bg=false&row=1&column=8)
 
 </div>
 
