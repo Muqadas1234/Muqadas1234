@@ -111,6 +111,8 @@
 
 </td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+<tr>
+  
 
 ### 🌍 AI Travel Planner
 **Intelligent Trip Planning System**
@@ -128,7 +130,7 @@
 </tr>
 <tr>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
+</tr>
 ### 🌐 Language Translator
 **Multi-Language Translation Tool**
 
