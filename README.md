@@ -58,8 +58,6 @@
 
 ---
 
----
-
 ### ⭐ Featured Projects
 
 <div align="center">
@@ -245,4 +243,3 @@
 <img src="https://komarev.com/ghpvc/?username=Muqadas1234&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
-
