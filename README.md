@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=D14836&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
@@ -64,22 +63,6 @@
 
 <table>
 <tr>
-  <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-
-### 🔍 AI Lost & Found System
-**Semantic Matching with NLP**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4ECDC4?style=flat-square&logo=natural-language-processing&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-*AI-powered lost & found system with semantic matching, automatic email notifications, admin dashboard, and Google OAuth authentication.*
-
-[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
-[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
-
-</td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
 
 ### 🩺 Multilingual AI Health Assistant
@@ -111,8 +94,6 @@
 
 </td>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-<tr>
-  
 
 ### 🌍 AI Travel Planner
 **Intelligent Trip Planning System**
@@ -130,7 +111,7 @@
 </tr>
 <tr>
 <td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
-</tr>
+
 ### 🌐 Language Translator
 **Multi-Language Translation Tool**
 
@@ -172,6 +153,24 @@
 
 [![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
 [![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/object-detection-tracking-using-yolo)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 10px; background: #ffffff;">
+
+### 🔍 AI Lost & Found System
+**Semantic Matching with NLP**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4ECDC4?style=flat-square&logo=natural-language-processing&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+*AI-powered lost & found system with semantic matching, automatic email notifications, admin dashboard, and Google OAuth authentication.*
+
+[![View](https://img.shields.io/badge/👁️_VIEW-6B7280?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
+[![Repository](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muqadas1234/lost-found-system)
 
 </td>
 </tr>
