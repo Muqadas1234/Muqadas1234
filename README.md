@@ -193,16 +193,24 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Muqadas1234">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muqadas1234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Muqadas1234">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqadas1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 
   <br/><br/>
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Muqadas1234">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Muqadas1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 
   <br/><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=false&no-bg=false&row=1&column=8" />
+  <a href="https://github.com/Muqadas1234">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muqadas1234&theme=darkhub&no-frame=false&no-bg=false&row=1&column=8" alt="Trophy" />
+  </a>
 
 </div>
 
