@@ -24,10 +24,10 @@
 
 ### About Me
 
-- 🎓 Computer Science student at SIBA University, Dadu Campus (7th Semester)
+- 🎓 Computer Science Student at Sukkur IBA University
 - 🌍 Based in Dadu, Pakistan
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 💻 Building beginner-friendly AI/ML projects, chatbots, RAG systems, and web apps
+- 💻 Building beginner-friendly AI/ML projects, chatbots, RAG systems, and Full stack Developer
 - 📬 Reach me at: `muqadasakram.13@gmail.com`
 
 ---
