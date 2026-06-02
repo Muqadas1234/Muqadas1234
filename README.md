@@ -24,7 +24,7 @@
 
 ### About Me
 
-- 🎓 Computer Science Student at Sukkur IBA University
+- 🎓 Fresh Computer Science Graduate from Sukkur IBA University
 - 🌍 Based in Dadu, Pakistan
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
 - 💻 Building beginner-friendly AI/ML projects, chatbots, RAG systems, and Full stack Developer
