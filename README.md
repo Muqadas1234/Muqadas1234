@@ -2,7 +2,7 @@
 
   <img alt="Hero" src="https://capsule-render.vercel.app/api?type=rect&color=D14836&height=80&section=header&text=Muqadas%20Akram&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=55" />
 
-  <h3>SIBA '26 • Computer Science Student</h3>
+  <h3>SIBA '26 • Fresh Computer Science Graduate</h3>
   <p style="color: #FF6B6B; font-weight: 900; font-size: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">AI Developer . Full Stack Developer . Problem Solver · Building Intelligent Solutions</p>
 
   <a href="https://www.linkedin.com/in/muqadas-akram/">
